@@ -16,7 +16,7 @@ Requires Node v10 or later.
 * Connect to server with `npm run start`.
 * Enter `http://localhost:3000` in your browser.
 
-This API uses simple GET requests for the following paths:
+This API uses simple GET requests for the following paths. Type them into your browser to check it out!:
 * /happy-birthday/ 
 * /happy-birthday/[name] 
 * /happy-birthday/[name]?custom=[message]! 
